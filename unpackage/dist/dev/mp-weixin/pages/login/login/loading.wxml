@@ -1,0 +1,1 @@
+<view style="{{'height:'+(scrollHeight+'px')+';'+('width:'+(scrollWidth+'px')+';')}}"><view><our-loading class="center" vue-id="1c2ffc5f-1" isFullScreen="{{true}}" active="{{true}}" text="加载中" bind:__l="__l"></our-loading></view></view>

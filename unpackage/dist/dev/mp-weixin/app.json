@@ -1,0 +1,44 @@
+{
+    "pages": [
+        "pages/login/login/index",
+        "pages/login/login/loading",
+        "pages/engineer/index",
+        "pages/order/index",
+        "pages/createevent/createEvent",
+        "pages/order/info",
+        "pages/repository/index"
+    ],
+    "subPackages": [],
+    "window": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "uni-app",
+        "navigationBarBackgroundColor": "#F8F8F8",
+        "backgroundColor": "#F8F8F8",
+        "navigationStyle": "custom",
+        "style": {
+            "app-plus": {
+                "background": "#000000"
+            }
+        }
+    },
+    "tabBar": {
+        "list": [
+            {
+                "pagePath": "pages/engineer/index"
+            },
+            {
+                "pagePath": "pages/order/index"
+            },
+            {
+                "pagePath": "pages/repository/index"
+            }
+        ]
+    },
+    "permission": {},
+    "usingComponents": {
+        "our-loading": "/components/our-loading/our-loading",
+        "my-custom": "/colorui/components/custom",
+        "my-section": "/components/section/section"
+    },
+    "sitemapLocation": "sitemap.json"
+}

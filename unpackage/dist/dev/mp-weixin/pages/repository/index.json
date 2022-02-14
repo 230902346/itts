@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "知识库首页",
+  "usingComponents": {
+    "u-search": "/node-modules/uview-ui/components/u-search/u-search",
+    "u-tabbar": "/node-modules/uview-ui/components/u-tabbar/u-tabbar"
+  }
+}

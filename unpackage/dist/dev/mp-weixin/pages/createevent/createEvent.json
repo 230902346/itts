@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "创建事件共用",
+  "usingComponents": {
+    "hpy-form-select": "/uni_modules/hpy-form-select/components/hpy-form-select/hpy-form-select",
+    "u-input": "/node-modules/uview-ui/components/u-input/u-input",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button"
+  }
+}

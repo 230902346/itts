@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "首页共用",
+  "usingComponents": {
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "u-tabbar": "/node-modules/uview-ui/components/u-tabbar/u-tabbar"
+  }
+}

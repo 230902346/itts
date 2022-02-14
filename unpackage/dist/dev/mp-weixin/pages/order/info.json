@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "工单详情",
+  "usingComponents": {
+    "u-read-more": "/node-modules/uview-ui/components/u-read-more/u-read-more",
+    "y-steps": "/components/Y-Steps/Y-Steps"
+  }
+}
